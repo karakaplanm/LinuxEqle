@@ -1,4 +1,4 @@
 # LinuxEqle
 Linux Eklemeleri
 
-<img src=ddd>
+<img src=q-otr.png>
