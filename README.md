@@ -1,0 +1,2 @@
+# LinuxEqle
+Linux Eklemeleri
