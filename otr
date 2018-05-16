@@ -1,5 +1,6 @@
 // Ottoman Turkish Q layout
 default  partial
+
 xkb_symbols "os" {
     include "latin"
     name[Group1]="Turkish (Old)";
